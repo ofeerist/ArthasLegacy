@@ -1,0 +1,154 @@
+﻿STRING 1
+{
+Arthas Legacy
+}
+
+STRING 2
+{
+Any
+}
+
+STRING 3
+{
+Rogue-like
+}
+
+STRING 4
+{
+ofeer1st
+}
+
+STRING 5
+{
+Player 1
+}
+
+STRING 6
+{
+Force 1
+}
+
+STRING 8
+// Destructibles: B000 (Ваза), Name (Name)
+{
+Ваза
+}
+
+STRING 9
+// Destructibles: B001 (Рундук), Name (Name)
+{
+Рундук
+}
+
+STRING 10
+// Destructibles: B004 (Плохой ящик), Name (Name)
+{
+Плохой ящик
+}
+
+STRING 11
+// Destructibles: B005 (Мусор), Name (Name)
+{
+Мусор
+}
+
+STRING 13
+// Destructibles: B003 (Ценности), Name (Name)
+{
+Ценности
+}
+
+STRING 14
+// Destructibles: B002 (Сломанное оружие), Name (Name)
+{
+Сломанное оружие
+}
+
+STRING 15
+// Destructibles: B006 (Оружейная), Name (Name)
+{
+Оружейная
+}
+
+STRING 16
+// Destructibles: B007 (Бронник), Name (Name)
+{
+Бронник
+}
+
+STRING 17
+// Destructibles: B008 (Плохой бронник), Name (Name)
+{
+Плохой бронник
+}
+
+STRING 18
+// Destructibles: B009 (Плохая оружейная), Name (Name)
+{
+Плохая оружейная
+}
+
+STRING 19
+{
+Player 2
+}
+
+STRING 20
+{
+Player 3
+}
+
+STRING 21
+{
+Player 4
+}
+
+STRING 22
+{
+Player 12
+}
+
+STRING 23
+{
+Force 2
+}
+
+STRING 24
+// Destructibles: B00A (Колодец), Name (Name)
+{
+Колодец
+}
+
+STRING 25
+// Destructibles: B00B (Свинюшка), Name (Name)
+{
+Свинюшка
+}
+
+STRING 26
+// Destructibles: B00C (Черепа), Name (Name)
+{
+Черепа
+}
+
+STRING 27
+// Destructibles: B00D (Алтарь), Name (Name)
+{
+Алтарь
+}
+
+STRING 28
+{
+Arthast Legacy
+}
+
+STRING 29
+{
+Author - ofeer1st
+}
+
+STRING 30
+{
+Special for XGM.guru
+}
+
